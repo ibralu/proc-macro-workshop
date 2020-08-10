@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CargoProjects">
+    <cargoProject FILE="$PROJECT_DIR$/Cargo.toml" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="1f387e47-9dd3-4b78-9cb9-eb7b08d50772" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/builder/Cargo.toml" beforeDir="false" afterPath="$PROJECT_DIR$/builder/Cargo.toml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder/src/lib.rs" beforeDir="false" afterPath="$PROJECT_DIR$/builder/src/lib.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/builder/tests/progress.rs" beforeDir="false" afterPath="$PROJECT_DIR$/builder/tests/progress.rs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/main.rs" beforeDir="false" afterPath="$PROJECT_DIR$/main.rs" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="GOROOT" path="/usr/local/go" />
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MacroExpansionManager">
+    <option name="directoryName" value="gchcxncu" />
+  </component>
+  <component name="ProjectId" id="1fYl9nZ1uZbo6X0bCUtmujJXrpy" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="go.import.settings.migrated" value="true" />
+    <property name="go.sdk.automatically.set" value="true" />
+    <property name="last_opened_file_path" value="$USER_HOME$" />
+    <property name="org.rust.cargo.project.model.PROJECT_DISCOVERY" value="true" />
+    <property name="org.rust.disableDetachedFileInspection/Users/ibra/projects/proc-macro-workshop/builder/tests/01-parse.rs" value="true" />
+    <property name="settings.editor.selected.configurable" value="language.rust.rustfmt" />
+  </component>
+  <component name="RustProjectSettings">
+    <option name="runRustfmtOnSave" value="true" />
+    <option name="toolchainHomeDirectory" value="$USER_HOME$/.cargo/bin" />
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="-92" y="-1179" key="SettingsEditor" timestamp="1596934578217">
+      <screen x="-507" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="-92" y="-1179" key="SettingsEditor/0.23.1440.832/-507.-1417.2560.1417@-507.-1417.2560.1417" timestamp="1596934578217" />
+    <state x="106" y="-1186" width="586" height="735" key="find.popup" timestamp="1596496421917">
+      <screen x="-507" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="106" y="-1186" width="586" height="735" key="find.popup/0.23.1440.832/-507.-1417.2560.1417@-507.-1417.2560.1417" timestamp="1596496421917" />
+    <state x="64" y="-1187" width="670" height="676" key="search.everywhere.popup" timestamp="1596935023543">
+      <screen x="-507" y="-1417" width="2560" height="1417" />
+    </state>
+    <state x="64" y="-1187" width="670" height="676" key="search.everywhere.popup/0.23.1440.832/-507.-1417.2560.1417@-507.-1417.2560.1417" timestamp="1596935023543" />
+  </component>
+</project>
